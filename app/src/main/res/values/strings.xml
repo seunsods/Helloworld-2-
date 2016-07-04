@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitExample2</string>
+    <string name="hello_world">Hello from the DragonBoard!!!!!!!!Rarrr!!!</string>
+    <string name="action_settings">Settings</string>
 </resources>
